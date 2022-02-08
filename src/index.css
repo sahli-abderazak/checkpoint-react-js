@@ -1,0 +1,32 @@
+form{
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: black;
+  padding: auto;
+  margin: auto;
+  
+}
+#b1{
+  background-color: rgb(245, 245, 248);
+  border: rgb(236, 229, 229); 
+color: brown;
+}
+#p1{
+  text-align: center;
+  font-size: 500;
+  margin: auto;
+  color: azure;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.b{
+  font-family: 'Courier New', Courier, monospace;
+  size: 500;
+  color: brown;
+  padding: 500; 
+  margin: 500;
+  
+}
+.h{
+  color: brown;
+}
